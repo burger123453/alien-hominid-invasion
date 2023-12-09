@@ -1,0 +1,290 @@
+menu thingy show (in case i forget) (alien setup)
+weapon   mutation
+boost1     boost2
+head      pigment
+
+
+moving and dodging
+	you should mostly jump around and dodge alot
+	always be dodging to avoid attacks
+	try to stay above enemies unless you dont want to
+	when under a lot of fire or on fire you should dig to get rid of it
+	you should mostly focus on your character and partially on what your
+	shooting (unless theres not a lot of bullets on screen)
+	dodge ends when you hit something that isnt an enemy
+	(flying refers to shooting down to gain height)
+	jumping or touching the ground (if you aren't already on it) resets -
+the dodge so you can do it again
+	also going out of a dig resets it
+	you should do jump dodge jump dodge for optimal movement
+	you could also do dodge (on the ground) jump dodge jump and then -
+the next move you want to do (could be dodge)
+shooting
+	by being above enemies they cant shoot you (very well)
+	always be shooting (unless otherwise)
+	also you can use the charged attacks against the flying robot thingies
+	also when you're waiting you should charge up ur charge
+	long ranged and fast bullets weapons are good against flying enemies
+	if your weapon of choice isnt long range you can always fly up with -
+shooting down to get to the enemy and either stand on their head or -
+throw them (standing on their head for bosses (maybe))
+throwing enemies <-(not part of shooting) (its below)
+	this doesnt work on big enemies or armored enemies
+	you have to jump on their back/head and you can throw them with dodge
+	with the moving buttons/stick you can steer the enemy or where you -
+want to throw (steering isnt the most controlled (for robots) (unless it's -
+the mini mech)
+digging
+	you can dig for a while before you automatically come out of the -
+ground (idk how long it lasts)
+	it shows when you leave after a while when the anttenae is glowing
+	you can leave ground by pressing jump or dodge button
+	you know you dig when the stuff shows when you hold dodge
+	this can also get rid of most status effects (or all idk)
+	it also saves your charged attack
+enemy tips (unfinished)
+	when fighting the big guys with shields you can dig to get past them -
+(or just jump)
+	for flying enemies you can try to shoot them down or you can fly up -
+and throw them
+	for flying shield enemies you should try to find a platform and then -
+use the charged attack
+	when fighting bosses you should use charged attacks - it deal more dmg
+	when i said flying robot thingies i meant the things that summon -
+enemies and look a like a big crate with the hole underneath that has green -
+light and is mostly the color black (around that color) (it was armored -
+skyvan)
+	hunterbots are hard (idk what to do about them)
+	most of the flying enemies to can jump on and throw them to instakill
+	you can always roll through the bullets
+	enemies with some green stuff around them (like translucent) -
+probably have a shield around them made by a green bot you have to -
+kill the bot to break the shield (it was electrobot)
+	most flying enemies you can throw (did i say that already?)
+more important enemies (put as i unlock them) (or not)
+	flametrooper
+		shoot him from below (in the ground) or something else -
+(dig and jump up to hit them and then shoot)
+	suppressor (enemy)
+		shoot him go in ground to dodge the slowy thingies (idk what -
+they are called)
+	sniper
+		dont get hit
+		theres an after effect bullet (when he shoots)
+		when you get close he runs (shoot him)
+	jetpack elite
+		(fly up and) throw him
+	armored skyvan
+		shoot it from the bottom and/or used charged attacks
+	lozenge man
+		attack him or not (free mutation)
+	sweeper
+		roll through lasers and either ignore it or throw it (or -
+shoot it)
+	sparkbot
+		throw it (or shoot)
+			oops started on the wrong page (that was page 2)-----
+	eradicator_a
+		shoot him and dig
+	shocktrooper
+		more shooting
+	flybot
+		this guys annoying but not really needed to kill (landmines -
+are actually dangerous) (like invisible attacks)
+	beambot
+		(fly up and) throw it
+	electrobot
+		shoot or throw to break shield (both easy to do)
+	minimech
+		shoot it (you can use it as a weapon but no dodging)
+	shieldtrooper
+		you can jump over or dig to get past the shield; dont ride him
+	bulldogzer
+		ignore it or ride it (or shoot)
+	frogbot
+		attack it (you can throw it i think)
+	helicopter
+		shoot it (sometimes it drops bombs and you have to be ahead -
+of it) (ahead of the direction it's going)
+	spikebot
+		roll through or jump (or shoot because it's fragile)
+	spiderbot
+		use math to calculate where you land (to catch it)
+	airmine
+		dont get exploded (you can jump on it)
+	chomper
+		fight keybot somehow
+		dont let it catch up to you
+	keybot
+		hopefully break it before you die
+		use charged attacks and stay by the chomper for more time
+		also after charged attack spam bullets
+	megabot
+		jump on her head and shoot (maybe charged attacks)
+	installball_b
+		stay close but not too close before you get slapped
+		dig to avoid the jumping and other attacks
+	bustletron 2.0
+		try to hit his body (aim up) and dig to avoid his attacks
+		also avoid his wheel (at all costs)
+	wasp thingy
+		idk hide underground and try to get shots???
+		try not to die
+		very dangerous
+		aahahahhaaaaaaaaaaaahahhhhhhhhhhhhhhhhhhhhh!!?!??!?!?!??
+		always try to shoot it
+		make sure your keys/buttons dont break
+		maybe use charged attacks?
+		only gets hurt at the top
+		stabby ground thing is the best attack for you to get shots
+		idk about the circles that slow you down (surpressors?)
+		try to get all the shots in (the stabby attack)
+		also try to shoot when the circles come but also make sure -
+not to have too many (circles) on you
+		use fire gun
+		https://www.youtube.com/watch?v=MYP4WTF8c_Y
+	eradictor_b
+		you know what to do (he flies)
+	slowbot
+		throw it or complete (mission) faster (or shoot it)
+	armored van
+		shoot it (not really hard to beat it)
+	inchworm_x
+		shoot it and try to dodge through the trails
+	juiceman (or just dont kill the guards)
+		hes not that hard
+		just shoot him when you have the chance
+	grand mothership
+		kinda easy boss
+		for the first phase just shoot and dodge the triangles
+		the drill thingies are shown where they pop up
+		for the next phase shoot and dodge the slamming attack with -
+digging
+		for the nexter phase just shoot and use jumps and timing to -
+dodge the hands
+uhh that one screen where you choose stuff (i forgot what its called)
+(the menu at the top) (like setup or something)
+	getting triple bullet (dps up) is good for more dmg (or maybe fire -
+rate?)
+	also dig speed is useful if you like digging (to dodge)
+	i like vampire mutation because i can eat the fbi people (and heal)
+	i think you should choose to what you like (or good at)
+boosts: (gonna do this later)
+page 1
+
+page 2
+
+etcetera
+mutations (the ones ive used)
+	bomb thingy (battle block theater reference)
+		it can be aimed
+		it is a bomb that does dmg
+		explodes on contact with enemy or after a while
+	vampire (why couldnt you just eat them without mutation)
+		has 3 charges
+		can be used as long as theres one charge
+		you lunge forward when used
+		does dmg
+		only ends when you touch the floor or when you collide with -
+an enemy (or you jump)
+		breaks armor (but does not fully kill armored enemies)
+		not sure if it works on robots (doesn't work on bosses)
+		im pretty sure it heals you (when you eat an enemy)
+		it gives you x0.4 health regen
+		if you already have health regen it multiplies that by 4/10 -
+(gets lower)
+		when you're riding an enemy it eats the enemy (when you use -
+it) (also when you ride the enemy and use it, it can go im pretty sure it -
+can go through armor)
+	dispatcher
+		summons another alien that does stuff
+	deflector
+		uno reverse
+	show off
+		become cool
+	weapon specialist
+		switch weapon that you chose when you selected the mutation
+		gives attack boost when you use the switch
+	speed demon
+		it makes you run so fast you go up in flames!
+weapons (not gonna do that stuff because i need more space) (the spaces)
+alien blaster
+"Classic blaster for newborn invaders. Limited default range and damage but
+high potential"
+it shoots
+
+photon gun
+"Rapid fire, spread widens at range. Charged shot covers a larger area"
+it shoots cooler (and larger charged shot)
+
+energy knife
+"ok nevermind im not doing this anymore"
+short range and charge dash (i dont like short range) (im gonna try the -
+bullet deflection though)
+
+dual laser
+pierce and long range (not the best dmg)
+
+combustor
+fire attacks that run out (has ammo) (not good dps) (sort of good because -
+you can hold it and shoot enemies)
+
+six chambers
+i never used this but it said that it does alot of dmg, needs reloading and
+charged ricochets
+
+sawed off
+lots a dmg for short range and wide, charged shot is cool (i think)
+
+spreadshot
+long range and big spread, charge shot fast
+
+human minigun
+slow charge but cool when charged (seems to not be good against armor)
+
+bb gun
+shoots alot of wide range bees
+
+cryoshot
+freezes (slows) enemies but slow fire rate (very slow)
+
+collider
+ricochet alot, charged pierces and bounces
+
+human machine gun
+slow effect???? high fire rate ig
+
+megashot
+i think it does fire dmg and orbeez (kinda slow fire rate)
+
+repeater
+i thinks its kinda weird cuz no charged attack and its dmg is confusing
+
+mothership issue
+homing small bullet (heat seeking but somehow attack robots) (heat from the -
+green energy attack thingies?) (this doesn't really matter though) (just
+hypothetical? (is that the right word?))
+
+charged bullet does more dmg (but doesnt home) (also slightly bigger)
+
+acid shot
+shoots poison (poison dmg)
+has a larger hitbox
+not the best dps
+
+lightning gun
+homing (for charge)
+charge eletrifies
+charge like when you walk on the carpet and electrify someone
+woah op goes through armor (always go through armor)
+homing to powerful (for simple enemies)
+good against wasp if: a - you have charge on, b - you know what the wasp does
+c - if you stay close for charge to work (thats why range is important)
+uhhh only good if your good (at dodging) (for the charge)
+also better with range (so you can hit enemies from farther away)
+when the enemy opens his mouth to make a sound of getting hurt thats how you -
+the stun (or not)
+the lightning travels through enemies (if charge is active and you ride enemy)
+this is more of a defensive weapon because of its slower fire rate and low -
+dmg and becuase of its damage over time and stun
+except you can kill alot of enemies with it (mostly the charge)
